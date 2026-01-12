@@ -30,17 +30,17 @@ Football player valuation is complex because:
 ---
 
 ## 🧠 System Architecture
-Data Collection
+Data Collection<br>
       ↓
-Data Cleaning & Merging
+Data Cleaning & Merging<br>
       ↓
-Feature Engineering
+Feature Engineering<br>
       ↓
-EDA & Outlier Handling
+EDA & Outlier Handling<br>
       ↓
-Model Training & Optimization
+Model Training & Optimization<br>
       ↓
-Evaluation
+Evaluation<br>
       ↓
-Deployment (Streamlit + FastAPI)
+Deployment (Streamlit + FastAPI)<br>
 
